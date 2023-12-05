@@ -1,0 +1,5 @@
+C:\Users\joshf\Mobile App Project\EFCoreConsoleApp\obj\Debug\net8.0\EFCoreConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshf\Mobile App Project\EFCoreConsoleApp\obj\Debug\net8.0\EFCoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\joshf\Mobile App Project\EFCoreConsoleApp\obj\Debug\net8.0\EFCoreConsoleApp.AssemblyInfo.cs
+C:\Users\joshf\Mobile App Project\EFCoreConsoleApp\obj\Debug\net8.0\EFCoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\joshf\Mobile App Project\EFCoreConsoleApp\obj\Debug\net8.0\EFCoreConsoleApp.csproj.AssemblyReference.cache
